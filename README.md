@@ -1,4 +1,4 @@
--  Hi, my name is Pete Blythe. A seasoned mechanical engineer with ambitions to develop database GUI for small enterprises
+-  Hi, my name is Pete Blythe. A seasoned mechanical engineer with ambitions to develop databases and GUI for small enterprises
 -  You can reach me via email on 700nitro@gmail.com or LinkedIn https://www.linkedin.com/in/peteblythe/
 
 
